@@ -57,6 +57,8 @@ module equal(out, in);
     assign out=(in==0);
 endmodule
 
+
+//control path
 module mul_controlpath (ldA, ldB, ldP, clrP, decB, done, start, eqz, clk);
     output reg ldA, ldB, ldP, clrP, decB, done;
     input eqz, clk, start;
