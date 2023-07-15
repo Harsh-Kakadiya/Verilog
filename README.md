@@ -1,2 +1,2 @@
 # Verilog
-It contains verilog codes for hardware modeling
+It contains verilog codes for hardware modeling. 
